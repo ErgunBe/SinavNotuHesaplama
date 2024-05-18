@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\SinavNotuHesaplama\SinavNotuHesaplama\bin\Debug\SinavNotuHesaplama.exe.config
+C:\Users\VULKAN\Desktop\udemy\SinavNotuHesaplama\SinavNotuHesaplama\bin\Debug\SinavNotuHesaplama.exe
+C:\Users\VULKAN\Desktop\udemy\SinavNotuHesaplama\SinavNotuHesaplama\bin\Debug\SinavNotuHesaplama.pdb
+C:\Users\VULKAN\Desktop\udemy\SinavNotuHesaplama\SinavNotuHesaplama\obj\Debug\SinavNotuHesaplama.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\SinavNotuHesaplama\SinavNotuHesaplama\obj\Debug\SinavNotuHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\SinavNotuHesaplama\SinavNotuHesaplama\obj\Debug\SinavNotuHesaplama.exe
+C:\Users\VULKAN\Desktop\udemy\SinavNotuHesaplama\SinavNotuHesaplama\obj\Debug\SinavNotuHesaplama.pdb
